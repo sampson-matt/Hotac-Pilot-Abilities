@@ -1,4 +1,6 @@
-# HotAC X-Wing Miniatures Campaign Pilot Ability Upgrade Cards
+# Pilot Ability Upgrade Cards
+
+Custom Pilot Ability Upgrade Cards for the Heroes of the Aturi Cluster X-Wing Miniatures Campaign
 
 Notes:
 * These were all created using the custom upgrade card feature at Infinite Arenas
