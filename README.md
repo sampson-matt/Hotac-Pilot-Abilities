@@ -1,4 +1,4 @@
-# Custom Pilot Ability Upgrade Cards for the Hotac X-Wing Miniatures Campaign
+# HotAC X-Wing Miniatures Campaign Custom Pilot Ability Upgrade Cards
 
 Notes:
 * These were all created using the custom upgrade card feature at Infinite Arenas
