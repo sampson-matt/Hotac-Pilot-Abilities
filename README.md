@@ -1,10 +1,11 @@
-# Pilot Ability Upgrade Cards
+# Hotac Upgrade Cards
 
-Custom Pilot Ability Upgrade Cards for the Heroes of the Aturi Cluster X-Wing Miniatures Campaign
+Custom Upgrade Cards for the Heroes of the Aturi Cluster X-Wing Miniatures Campaign
 
 Notes:
 * These were all created using the custom upgrade card feature at Infinite Arenas
-* Presently only includes the Rebel Pilots that have been implemented in Sandrem's FlyCasual (as I'm creating these for use in my FlyCasual mod)
+* Presently includes the Rebel Pilots that have been implemented in Sandrem's FlyCasual (as I'm creating these for use in my FlyCasual mod)
+* As I continue to work on my FlyCasual mod, I'm also adding custom upgrades that are found on the HotAC elite pilot cards. Many of these are modified versions of X-Wing 1.0 upgrades
 
 Links:
 * [Infinite Arenas](https://infinitearenas.com/)
